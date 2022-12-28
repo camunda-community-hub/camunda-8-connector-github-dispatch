@@ -6,7 +6,7 @@ In this [blog post](https://medium.com/@zelldon91/connecting-camunda-platform-8-
 
 ## How to use
 
-In order to use the connector with your Desktop Modeler, copy the element template [github-dispatch-connector.json](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch/blob/main/element-templates/github-dispatch-connector.json) to your resources folder either next to your modeler executable or to your BPMN model files. For more information [read the corresponding documentation](https://docs.camunda.io/docs/next/components/modeler/desktop-modeler/element-templates/configuring-templates/#:~:text=Store%20element%20templates,diagram%27s%20path%20hierarchy). In Camunda Platform 8 SaaS we will hopefully support this connector soon as well.
+In order to use the connector template with your [Desktop Modeler](https://camunda.com/download/modeler/), copy the element template [github-dispatch-connector.json](https://github.com/camunda-community-hub/camunda-8-connector-github-dispatch/blob/main/element-templates/github-dispatch-connector.json) to your resources folder either next to your modeler executable or to your BPMN model files. For more information [read the corresponding documentation](https://docs.camunda.io/docs/next/components/modeler/desktop-modeler/element-templates/configuring-templates/#:~:text=Store%20element%20templates,diagram%27s%20path%20hierarchy). In Camunda Platform 8 SaaS we will hopefully support this connector soon as well.
 
 If the template is available in your modeler you can chose it in the corresponding templates menu. If the GitHub dispatcher connector template is picked the related properties panel will look similar to this:
 
